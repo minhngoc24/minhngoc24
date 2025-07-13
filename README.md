@@ -2,6 +2,10 @@
 
 I'm Minh Ngoc. I am a rising junior at Rhodes College double majoring in Computer Science and Mathematics. Welcome to my Github!
 
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/minhngoc24/)
+- [Gmail](mailto:leminhngoc2404@gmail.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhngoc24&layout=compact)
 
 ![Ngoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhngoc24&show_icons=true&theme=default)
