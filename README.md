@@ -5,6 +5,7 @@ I'm Minh Ngoc. I am a rising junior at Rhodes College double majoring in Compute
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhngoc24&layout=compact)
 
 ![Ngoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhngoc24&show_icons=true&theme=default)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhngoc24&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **minhngoc24/minhngoc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
